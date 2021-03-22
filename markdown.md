@@ -20,10 +20,10 @@ Even though Markdown is really easy, I keep having to look things up.
 
 `![Alt text](Url of image)`
 
-![Sil](/assets/logo.svg)
+![Sil](/assets/cheatsheet.png)
 
 ```Markdown
-![Sil](/assets/logo.svg)
+![Sil](/assets/cheatsheet.png)
 ```
 
 
@@ -31,10 +31,10 @@ Even though Markdown is really easy, I keep having to look things up.
 
 `![Alt text](Url of image "Image Title")`
 
-![Sil](/assets/logo.svg "Sil logo")
+![Sil](/assets/cheatsheet.png "Sil logo")
 
 ```Markdown
-![Sil](/assets/logo.svg "Sil logo")
+![Sil](/assets/cheatsheet.png "Sil logo")
 ```
 
 
@@ -43,8 +43,8 @@ Even though Markdown is really easy, I keep having to look things up.
 
 `[![Alt text](Url of image "Image Title")](Url of link)`
 
-[![Sil](/assets/logo.svg "Sil logo")](https://cheatsheet.sil.mt)
+[![Sil](/assets/cheatsheet.png "Sil logo")](https://cheatsheet.sil.mt)
 
 ```Markdown
-[![Sil](/assets/logo.svg "Sil logo")](https://cheatsheet.sil.mt)
+[![Sil](/assets/cheatsheet.png "Sil logo")](https://cheatsheet.sil.mt)
 ```
