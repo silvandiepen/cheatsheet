@@ -2,8 +2,7 @@
 
 Even though Markdown is really easy, I keep having to look things up.
 
-
-### Links
+## Links
 
 `[Title of link](Url of link)`
 
@@ -13,8 +12,7 @@ Even though Markdown is really easy, I keep having to look things up.
 [Cheatsheet](https://cheatsheet.sil.mt)
 ```
 
-### Image
-
+## Image
 
 **A basic image with title**
 
@@ -22,10 +20,9 @@ Even though Markdown is really easy, I keep having to look things up.
 
 ![Sil](/assets/cheatsheet.png)
 
-```Markdown
+```markdown
 ![Sil](/assets/cheatsheet.png)
 ```
-
 
 **A basic image with title**
 
@@ -33,11 +30,9 @@ Even though Markdown is really easy, I keep having to look things up.
 
 ![Sil](/assets/cheatsheet.png "Sil logo")
 
-```Markdown
+```markdown
 ![Sil](/assets/cheatsheet.png "Sil logo")
 ```
-
-
 
 **A basic image in a link;**
 
@@ -45,6 +40,6 @@ Even though Markdown is really easy, I keep having to look things up.
 
 [![Sil](/assets/cheatsheet.png "Sil logo")](https://cheatsheet.sil.mt)
 
-```Markdown
+```markdown
 [![Sil](/assets/cheatsheet.png "Sil logo")](https://cheatsheet.sil.mt)
 ```
